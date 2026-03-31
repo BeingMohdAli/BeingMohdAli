@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**BeingMohdAli/BeingMohdAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious about how tech giants build scalable backend systems using Java and Spring Boot.
 
-Here are some ideas to get you started:
+## Exploring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java and Spring Boot backend development
+* RabbitMQ for asynchronous messaging
+* PostgreSQL and MongoDB
+* Keycloak for authentication and security
+
+## GenAI
+
+* LangChain and LLM workflows
+* Prompt engineering
+* Backend + AI integration
+
+Email- mohdalisaad868@gmail.com
