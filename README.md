@@ -5,7 +5,7 @@ Curious about how tech giants build scalable backend systems using Java and Spri
 ## Exploring
 
 * Java and Spring Boot backend development
-* RabbitMQ for asynchronous messaging
+* RabbitMQ and Kafka for asynchronous messaging
 * PostgreSQL and MongoDB
 * Keycloak for authentication and security
 
