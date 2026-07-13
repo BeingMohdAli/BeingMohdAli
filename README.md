@@ -12,13 +12,15 @@
 
 ## 🤖 GenAI
 
-- 🔗 **LangChain** and LLM-powered workflows
+- 🔗 **LangChain** & **LangGraph** for LLM-powered workflows and agents
+- 🔌 **MCP (Model Context Protocol)** servers
+- 🗄️ **Supabase** for vector storage and backend infra
 - ✍️ Prompt engineering
 - 🧩 Backend + AI integration
 
 **What I've built:**
 - 🔍 [**PRP**](https://github.com/BeingMohdAli/PRP) — a RAG-based PDF question-answering app
-- 📊 [**DevObs**](https://github.com/BeingMohdAli/DevObs)
+- 📊 [**DevObs**](https://github.com/BeingMohdAli/DevObs) — a DevOps observability MCP server that lets you monitor system health through a chat interface
 
 ## 🔭 Exploring
 
@@ -40,6 +42,9 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white" alt="Keycloak">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white" alt="LangGraph">
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white" alt="MCP">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase">
 </p>
 
 <br>
