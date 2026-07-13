@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-<p align="center"><i>Curious about how tech giants build scalable backend systems using Java and Spring Boot.</i></p>
+<p align="center"><i>Backend engineer exploring how scalable systems are built with Java & Spring Boot — and how GenAI is reshaping the way we build them.</i></p>
 
 <p align="center">
   <a href="mailto:mohdalisaad868@gmail.com">
@@ -10,18 +10,22 @@
 
 <br>
 
+## 🤖 GenAI
+
+- 🔗 **LangChain** and LLM-powered workflows
+- ✍️ Prompt engineering
+- 🧩 Backend + AI integration
+
+**What I've built:**
+- 🔍 [**PRP**](https://github.com/BeingMohdAli/PRP) — a RAG-based PDF question-answering app
+- 📊 [**DevObs**](https://github.com/BeingMohdAli/DevObs)
+
 ## 🔭 Exploring
 
 - ☕ **Java & Spring Boot** backend development
 - 📨 **RabbitMQ** and **Kafka** for asynchronous messaging
 - 🗄️ **PostgreSQL** and **MongoDB**
 - 🔐 **Keycloak** for authentication and security
-
-## 🤖 GenAI
-
-- 🔗 **LangChain** and LLM-powered workflows
-- ✍️ Prompt engineering
-- 🧩 Backend + AI integration
 
 <br>
 
