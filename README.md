@@ -22,8 +22,7 @@
 - 🔍 [**PRP**](https://github.com/BeingMohdAli/PRP) — a RAG-based PDF question-answering app
 - 📊 [**DevObs**](https://github.com/BeingMohdAli/DevObs) — a DevOps observability MCP server that lets you monitor system health through a chat interface
 
-## 🔭 Exploring
-
+## 🔭 Back End Development
 - ☕ **Java & Spring Boot** backend development
 - 📨 **RabbitMQ** and **Kafka** for asynchronous messaging
 - 🗄️ **PostgreSQL** and **MongoDB**
