@@ -29,7 +29,10 @@
 - 🔐 **Keycloak** for authentication and security
 
 <br>
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=BeingMohdAli&theme=radical)
+
+![PRs Merged](https://github-readme-stats.vercel.app/api?username=BeingMohdAli&show_icons=true&hide=stars,commits,issues,contribs&show=prs_merged,prs_merged_percentage&theme=radical)
 
 
 ## 🛠️  Tech Stack
