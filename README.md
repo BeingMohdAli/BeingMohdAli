@@ -29,7 +29,7 @@
 - 🔐 **Keycloak** for authentication and security
   
 **What I've built:**
-- 🔍 [**FITzy**](https://github.com/BeingMohdAli/fitzy) — a RAG-based PDF question-answering app
+- 🔍 [**FITzy**](https://github.com/BeingMohdAli/fitzy) — A FITNESS TRACKER APP
   
 <br>
 
