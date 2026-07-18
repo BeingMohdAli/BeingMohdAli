@@ -27,10 +27,10 @@
 - 📨 **RabbitMQ** and **Kafka** for asynchronous messaging
 - 🗄️ **PostgreSQL** and **MongoDB**
 - 🔐 **Keycloak** for authentication and security
-- 
+  
 **What I've built:**
 - 🔍 [**FITzy**](https://github.com/BeingMohdAli/fitzy) — a RAG-based PDF question-answering app
-- 
+  
 <br>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=BeingMohdAli&theme=radical)
