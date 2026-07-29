@@ -1,4 +1,4 @@
-<h1 align="center">Hi  there  👋</h1>
+<h1 align="center">Hi  there 👋</h1>
 
 <p align="center"><i>Backend engineer exploring how scalable systems are built with Java & Spring Boot — and how GenAI is reshaping the way we build them.</i></p>
 
